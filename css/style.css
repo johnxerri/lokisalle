@@ -1,0 +1,81 @@
+html {
+	font-size: 62.5%;
+}
+
+body {
+	padding-top: 5rem;
+	font-size: 1.5rem;
+}
+
+hr {
+	border-color: #000;
+}
+
+.main {
+	min-height: 80rem;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: #fff;
+    background-color: #000;
+}
+
+th {
+	text-align: center;
+}
+
+textarea {
+	resize: none;
+}
+
+.img_backOffice {
+	width: 8rem;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 1rem;
+    line-height: 1.42857143;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.table>tbody>tr>th {
+	background-color: #000;
+	color: #fff;
+}
+
+.tableau {
+	max-height: 28rem;
+    overflow: auto;
+}
+
+.fa-pencil-square-o, .fa-trash-o {
+	font-size: 1.9rem;
+    vertical-align: top;
+    letter-spacing: 0.5rem;
+}
+
+.image-upload > #file-input {
+	display: none;
+}
+
+.starter-template {
+	padding: 4rem 1.5rem;
+	text-align: center;
+}
+
+.fa-power-off {
+	color: red;
+}
+
+.badge {
+	background-color: red;
+	color: #fff;
+}
+
+th {
+
+}
